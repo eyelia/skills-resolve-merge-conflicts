@@ -4,12 +4,9 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 
 ## Job History
->>>>>> Main
-Open a new title
-======
->>>>>> Job title
->>>>>> -----
-
+   <<<<<<< my-resume
+   =======
+   >>>>>>> main
 
 ### GitHub Trainer
 
